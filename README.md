@@ -202,7 +202,7 @@
   <br>
 
   <div style="max-width: 900px; margin: 0 auto;">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/snake-animated.svg" width="100%" style="display: block; border-radius: 12px;">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake.gif" width="100%" style="display: block; border-radius: 12px;">
   </div>
   <div style="max-width: 900px; margin: 0 auto; border-radius: 20px; border: 1px solid #21262d; margin-top: 4px;">
     <div style="height: 6px; width: 100%; background: linear-gradient(90deg, #58A6FF, #BC8CFF, #39D2C0); border-radius: 3px;"></div>
