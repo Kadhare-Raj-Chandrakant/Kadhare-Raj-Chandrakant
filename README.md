@@ -138,26 +138,6 @@
 <!-- DIVIDER: CIRCUIT -->
 <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/circuit-divider.svg" alt="" width="100%">
 
-<!-- GITHUB ANALYTICS SECTION -->
-<div align="center">
-
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="right" valign="middle">
-        <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/section-icons/stats.svg" alt="" width="36" height="36">
-      </td>
-      <td align="left" valign="middle" style="padding-left: 12px;">
-        <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="color: #BC8CFF;">GitHub</span> Analytics
-        </h2>
-      </td>
-    </tr>
-  </table>
-
-  <br><br>
-
-</div>
-
 <!-- DIVIDER: PARTICLES -->
 <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/particle-divider.svg" alt="" width="100%">
 
