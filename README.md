@@ -154,10 +154,6 @@
     </tr>
   </table>
 
-  <br>
-
-  <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #8B949E; text-align: center;">Stats unavailable — external service down.</p>
-
   <br><br>
 
 </div>
