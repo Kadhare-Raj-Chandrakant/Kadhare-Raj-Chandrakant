@@ -509,27 +509,21 @@
 
   <br>
 
-  <table align="center" border="0" cellpadding="8" cellspacing="8">
+  <table align="center" border="0" cellpadding="0" cellspacing="8">
     <tr>
       <td align="center">
-        <a href="https://github.com/Kadhare-Raj-Chandrakant" target="_blank" style="text-decoration: none;">
-          <div style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
-            <span style="font-size: 18px;">🐙</span> GitHub
-          </div>
+        <a href="https://github.com/Kadhare-Raj-Chandrakant" target="_blank" style="text-decoration: none; background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500; display: inline-block;">
+          &#128025; GitHub
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/kadhare-raj-chandrakant/" target="_blank" style="text-decoration: none;">
-          <div style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
-            <span style="font-size: 18px;">💼</span> LinkedIn
-          </div>
+        <a href="https://www.linkedin.com/in/kadhare-raj-chandrakant/" target="_blank" style="text-decoration: none; background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500; display: inline-block;">
+          &#128188; LinkedIn
         </a>
       </td>
       <td align="center">
-        <a href="mailto:kadhare.raj.chandrakant@example.com" target="_blank" style="text-decoration: none;">
-          <div style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
-            <span style="font-size: 18px;">✉️</span> Email
-          </div>
+        <a href="mailto:kadhare.raj.chandrakant@example.com" style="text-decoration: none; background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500; display: inline-block;">
+          &#9993;&#65039; Email
         </a>
       </td>
     </tr>
@@ -537,9 +531,7 @@
 
   <br>
 
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; letter-spacing: 1px;">
-    Open to collaborations, discussions, and new opportunities.
-  </div>
+  <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; letter-spacing: 1px;">Open to collaborations, discussions, and new opportunities.</p>
 
 </div>
 
@@ -551,24 +543,28 @@
 
   <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/footer-bg.svg" alt="" width="100%" style="display: block;">
 
-  <div style="padding-top: 20px; padding-bottom: 40px;">
-
-    <div style="font-family: Georgia, serif; font-size: 18px; font-style: italic; color: #8B949E; letter-spacing: 2px; margin-bottom: 24px;">
-      Thanks for visiting.
-    </div>
-
-    <!-- Visitor counter -->
-    <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; letter-spacing: 1px;">
-      <img src="https://komarev.com/ghpvc/?username=Kadhare-Raj-Chandrakant&color=58A6FF&style=flat-square&label=Visitors" alt="Visitor Count" style="opacity: 0.6;">
-    </div>
-
-    <div style="margin-top: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; letter-spacing: 1px; opacity: 0.5;">
-      Built with ❤️ and open source
-    </div>
-
-    <div style="margin-top: 16px; opacity: 0.3; height: 2px; width: 120px; background: linear-gradient(90deg, transparent, #58A6FF, transparent); margin-left: auto; margin-right: auto;"></div>
-
-  </div>
+  <table border="0" cellpadding="0" cellspacing="0" align="center" style="margin-top: 20px; margin-bottom: 40px;">
+    <tr>
+      <td align="center" style="padding-bottom: 20px;">
+        <h3 style="margin: 0; font-family: Georgia, serif; font-size: 18px; font-style: italic; color: #8B949E; letter-spacing: 2px; font-weight: 400;">Thanks for visiting.</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding-bottom: 16px;">
+        <img src="https://komarev.com/ghpvc/?username=Kadhare-Raj-Chandrakant&color=58A6FF&style=flat-square&label=Visitors" alt="Visitor Count">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding-bottom: 16px;">
+        <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; letter-spacing: 1px;">Built with &#10084;&#65039; and open source</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <hr style="width: 120px; height: 1px; border: none; background: linear-gradient(90deg, transparent, #58A6FF, transparent); opacity: 0.3;">
+      </td>
+    </tr>
+  </table>
 
 </div>
 
