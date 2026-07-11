@@ -292,9 +292,6 @@
 <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/glass-divider.svg" alt="" width="100%">
 
 <!-- ACHIEVEMENTS & MILESTONES SECTION -->
-<style>
-  .ach-card:hover { opacity: 0.85; }
-</style>
 <div align="center">
 
   <table border="0" cellpadding="0" cellspacing="0">
