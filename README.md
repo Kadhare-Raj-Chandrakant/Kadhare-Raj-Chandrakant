@@ -546,18 +546,7 @@
       Built with ❤️ and open source
     </div>
 
-    <div style="margin-top: 16px; opacity: 0.3;">
-      <svg width="120" height="20" viewBox="0 0 120 20">
-        <rect x="0" y="8" width="120" height="1.5" rx="0.75" fill="url(#footerLineGrad)"/>
-        <defs>
-          <linearGradient id="footerLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="transparent"/>
-            <stop offset="50%" stop-color="#58A6FF"/>
-            <stop offset="100%" stop-color="transparent"/>
-          </linearGradient>
-        </defs>
-      </svg>
-    </div>
+    <div style="margin-top: 16px; opacity: 0.3; height: 2px; width: 120px; background: linear-gradient(90deg, transparent, #58A6FF, transparent); margin-left: auto; margin-right: auto;"></div>
 
   </div>
 
