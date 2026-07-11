@@ -46,49 +46,37 @@
 
   <table align="center" border="0" cellpadding="12" cellspacing="12" style="max-width: 900px;">
     <tr>
-      <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: center;">
-          <div style="font-size: 32px; margin-bottom: 8px;">🚀</div>
-          <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #58A6FF;">Currently Building</h3>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Innovative projects that merge creativity with technology. Exploring AI, full-stack, and open source solutions.</p>
-        </div>
+      <td width="33%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🚀</div>
+        <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #58A6FF;">Currently Building</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Innovative projects that merge creativity with technology. Exploring AI, full-stack, and open source solutions.</p>
       </td>
-      <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: center;">
-          <div style="font-size: 32px; margin-bottom: 8px;">📚</div>
-          <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #BC8CFF;">Learning</h3>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Deepening expertise in AI/ML, cloud architecture, and system design. Every day is a chance to grow.</p>
-        </div>
+      <td width="33%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">📚</div>
+        <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #BC8CFF;">Learning</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Deepening expertise in AI/ML, cloud architecture, and system design. Every day is a chance to grow.</p>
       </td>
-      <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: center;">
-          <div style="font-size: 32px; margin-bottom: 8px;">🌍</div>
-          <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #39D2C0;">Open Source</h3>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Passionate about contributing to open source. Believing in collaborative development and knowledge sharing.</p>
-        </div>
+      <td width="33%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🌍</div>
+        <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #39D2C0;">Open Source</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Passionate about contributing to open source. Believing in collaborative development and knowledge sharing.</p>
       </td>
     </tr>
     <tr>
-      <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: center;">
-          <div style="font-size: 32px; margin-bottom: 8px;">📍</div>
-          <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #58A6FF;">Location</h3>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Building from somewhere in the world, contributing to the global developer community.</p>
-        </div>
+      <td width="33%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">📍</div>
+        <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #58A6FF;">Location</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Building from somewhere in the world, contributing to the global developer community.</p>
       </td>
-      <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: center;">
-          <div style="font-size: 32px; margin-bottom: 8px;">💡</div>
-          <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #BC8CFF;">Interests</h3>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">AI, Web Development, Cloud Computing, Open Source, System Design, and building meaningful software.</p>
-        </div>
+      <td width="33%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">💡</div>
+        <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #BC8CFF;">Interests</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">AI, Web Development, Cloud Computing, Open Source, System Design, and building meaningful software.</p>
       </td>
-      <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: center;">
-          <div style="font-size: 32px; margin-bottom: 8px;">🎯</div>
-          <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #39D2C0;">Goals</h3>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">To innovate, inspire, and make a lasting impact through technology. Continually pushing boundaries.</p>
-        </div>
+      <td width="33%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🎯</div>
+        <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #39D2C0;">Goals</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">To innovate, inspire, and make a lasting impact through technology. Continually pushing boundaries.</p>
       </td>
     </tr>
   </table>
@@ -216,16 +204,15 @@
   <br>
 
   <!-- Premium framed snake container -->
-  <div style="position: relative; display: inline-block; background: linear-gradient(135deg, rgba(88,166,255,0.03), rgba(57,210,192,0.03)); border: 1px solid rgba(88,166,255,0.15); border-radius: 20px; padding: 20px; width: 900px; max-width: 100%;">
-    <div style="position: relative; overflow: hidden; border-radius: 12px;">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 20px; width: 900px;"><tr><td style="padding: 20px;">
+    <div style="overflow: hidden; border-radius: 12px;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake.svg">
         <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake-dark.svg" width="100%" style="display: block;">
       </picture>
     </div>
-    <!-- Frame glow -->
-    <div style="border-radius: 20px; border: 1px solid rgba(88,166,255,0.1); opacity: 0.5; margin-top: 4px;">
+    <div style="border-radius: 20px; border: 1px solid #21262d; margin-top: 4px;">
       <svg width="100%" height="6" viewBox="0 0 900 6">
         <defs>
           <linearGradient id="snakeBorder" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -239,7 +226,7 @@
         </rect>
       </svg>
     </div>
-  </div>
+  </td></tr></table>
 
 </div>
 
@@ -265,89 +252,58 @@
   <br>
 
   <table align="center" border="0" cellpadding="12" cellspacing="12" style="max-width: 920px;">
-
     <tr>
-      <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px;">
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="font-size: 24px; margin-right: 10px;">🧠</span>
-            <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">neural-experimental</h3>
-          </div>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Experimental neural network projects exploring AI architectures and deep learning concepts.</p>
-          <div style="margin-top: 12px; display: flex; gap: 6px; flex-wrap: wrap;">
-            <span style="background: rgba(88,166,255,0.1); color: #58A6FF; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Python</span>
-            <span style="background: rgba(188,140,255,0.1); color: #BC8CFF; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">AI/ML</span>
-            <span style="background: rgba(57,210,192,0.1); color: #39D2C0; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Research</span>
-          </div>
-          <div style="margin-top: 12px; display: flex; align-items: center; gap: 16px;">
-            <a href="https://github.com/Kadhare-Raj-Chandrakant/neural-experimental" target="_blank" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #58A6FF; text-decoration: none; display: flex; align-items: center; gap: 4px;">
-              <span>→</span> View Repository
-            </a>
-          </div>
-        </div>
+      <td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px;">
+        <h3 style="margin: 0 0 8px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">🧠 neural-experimental</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Experimental neural network projects exploring AI architectures and deep learning concepts.</p>
+        <p style="margin: 12px 0 0 0;">
+          <sub style="background-color: #161b22; color: #58A6FF; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Python</sub>
+          <sub style="background-color: #161b22; color: #BC8CFF; font-family: monospace; padding: 3px 10px; border-radius: 6px;">AI/ML</sub>
+          <sub style="background-color: #161b22; color: #39D2C0; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Research</sub>
+        </p>
+        <p style="margin: 12px 0 0 0;">
+          <a href="https://github.com/Kadhare-Raj-Chandrakant/neural-experimental" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #58A6FF; text-decoration: none;">→ View Repository</a>
+        </p>
       </td>
-      <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px;">
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="font-size: 24px; margin-right: 10px;">🎙️</span>
-            <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">voice</h3>
-          </div>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Voice-based application exploring speech recognition and audio processing capabilities.</p>
-          <div style="margin-top: 12px; display: flex; gap: 6px; flex-wrap: wrap;">
-            <span style="background: rgba(57,210,192,0.1); color: #39D2C0; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Python</span>
-            <span style="background: rgba(88,166,255,0.1); color: #58A6FF; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Audio</span>
-            <span style="background: rgba(188,140,255,0.1); color: #BC8CFF; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">NLP</span>
-          </div>
-          <div style="margin-top: 12px; display: flex; align-items: center; gap: 16px;">
-            <a href="https://github.com/Kadhare-Raj-Chandrakant/voice" target="_blank" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #58A6FF; text-decoration: none; display: flex; align-items: center; gap: 4px;">
-              <span>→</span> View Repository
-            </a>
-          </div>
-        </div>
+      <td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px;">
+        <h3 style="margin: 0 0 8px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">🎙️ voice</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Voice-based application exploring speech recognition and audio processing capabilities.</p>
+        <p style="margin: 12px 0 0 0;">
+          <sub style="background-color: #161b22; color: #39D2C0; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Python</sub>
+          <sub style="background-color: #161b22; color: #58A6FF; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Audio</sub>
+          <sub style="background-color: #161b22; color: #BC8CFF; font-family: monospace; padding: 3px 10px; border-radius: 6px;">NLP</sub>
+        </p>
+        <p style="margin: 12px 0 0 0;">
+          <a href="https://github.com/Kadhare-Raj-Chandrakant/voice" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #58A6FF; text-decoration: none;">→ View Repository</a>
+        </p>
       </td>
     </tr>
-
     <tr>
-      <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px;">
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="font-size: 24px; margin-right: 10px;">🔬</span>
-            <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">physicsproject</h3>
-          </div>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Physics simulation and computation project exploring scientific computing concepts.</p>
-          <div style="margin-top: 12px; display: flex; gap: 6px; flex-wrap: wrap;">
-            <span style="background: rgba(88,166,255,0.1); color: #58A6FF; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">HTML</span>
-            <span style="background: rgba(188,140,255,0.1); color: #BC8CFF; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Physics</span>
-            <span style="background: rgba(57,210,192,0.1); color: #39D2C0; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Simulation</span>
-          </div>
-          <div style="margin-top: 12px; display: flex; align-items: center; gap: 16px;">
-            <a href="https://github.com/Kadhare-Raj-Chandrakant/physicsproject" target="_blank" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #58A6FF; text-decoration: none; display: flex; align-items: center; gap: 4px;">
-              <span>→</span> View Repository
-            </a>
-          </div>
-        </div>
+      <td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px;">
+        <h3 style="margin: 0 0 8px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">🔬 physicsproject</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Physics simulation and computation project exploring scientific computing concepts.</p>
+        <p style="margin: 12px 0 0 0;">
+          <sub style="background-color: #161b22; color: #58A6FF; font-family: monospace; padding: 3px 10px; border-radius: 6px;">HTML</sub>
+          <sub style="background-color: #161b22; color: #BC8CFF; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Physics</sub>
+          <sub style="background-color: #161b22; color: #39D2C0; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Simulation</sub>
+        </p>
+        <p style="margin: 12px 0 0 0;">
+          <a href="https://github.com/Kadhare-Raj-Chandrakant/physicsproject" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #58A6FF; text-decoration: none;">→ View Repository</a>
+        </p>
       </td>
-      <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px;">
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="font-size: 24px; margin-right: 10px;">🎨</span>
-            <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">Raphael</h3>
-          </div>
-          <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Creative project exploring artistic expression through code and computation.</p>
-          <div style="margin-top: 12px; display: flex; gap: 6px; flex-wrap: wrap;">
-            <span style="background: rgba(57,210,192,0.1); color: #39D2C0; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Python</span>
-            <span style="background: rgba(88,166,255,0.1); color: #58A6FF; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Creative</span>
-            <span style="background: rgba(188,140,255,0.1); color: #BC8CFF; font-size: 11px; padding: 3px 10px; border-radius: 6px; font-family: monospace;">Art</span>
-          </div>
-          <div style="margin-top: 12px; display: flex; align-items: center; gap: 16px;">
-            <a href="https://github.com/Kadhare-Raj-Chandrakant/Raphael" target="_blank" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #58A6FF; text-decoration: none; display: flex; align-items: center; gap: 4px;">
-              <span>→</span> View Repository
-            </a>
-          </div>
-        </div>
+      <td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 24px;">
+        <h3 style="margin: 0 0 8px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">🎨 Raphael</h3>
+        <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Creative project exploring artistic expression through code and computation.</p>
+        <p style="margin: 12px 0 0 0;">
+          <sub style="background-color: #161b22; color: #39D2C0; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Python</sub>
+          <sub style="background-color: #161b22; color: #58A6FF; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Creative</sub>
+          <sub style="background-color: #161b22; color: #BC8CFF; font-family: monospace; padding: 3px 10px; border-radius: 6px;">Art</sub>
+        </p>
+        <p style="margin: 12px 0 0 0;">
+          <a href="https://github.com/Kadhare-Raj-Chandrakant/Raphael" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #58A6FF; text-decoration: none;">→ View Repository</a>
+        </p>
       </td>
     </tr>
-
   </table>
 
 </div>
@@ -380,17 +336,17 @@
 
   <table align="center" border="0" cellpadding="10" cellspacing="10" style="max-width: 900px;">
     <tr>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 14px; padding: 20px 24px; min-width: 120px;">
+      <td align="center" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 14px; padding: 20px 24px;">
         <div style="font-size: 28px; margin-bottom: 6px;">💻</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF;">Open Source</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; margin-top: 4px;">Contributing to community projects</div>
       </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 14px; padding: 20px 24px; min-width: 120px;">
+      <td align="center" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 14px; padding: 20px 24px;">
         <div style="font-size: 28px; margin-bottom: 6px;">🚀</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF;">Projects</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; margin-top: 4px;">Building innovative solutions</div>
       </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 14px; padding: 20px 24px; min-width: 120px;">
+      <td align="center" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 14px; padding: 20px 24px;">
         <div style="font-size: 28px; margin-bottom: 6px;">🌱</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #39D2C0;">Learning</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; margin-top: 4px;">Continuous growth & improvement</div>
@@ -502,7 +458,7 @@
 
   <br>
 
-  <div style="background: linear-gradient(135deg, rgba(88,166,255,0.03), rgba(188,140,255,0.03)); border: 1px solid rgba(88,166,255,0.12); border-radius: 16px; padding: 28px 40px; max-width: 700px; display: inline-block;">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; width: 700px;"><tr><td style="padding: 28px 40px; text-align: center;">
     <div style="font-family: Georgia, serif; font-size: 20px; font-style: italic; color: #C9D1D9; line-height: 1.6; font-weight: 300; letter-spacing: 0.5px;">
       "The only way to do great work is to love what you do."
     </div>
@@ -514,7 +470,7 @@
         <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4C7.58 4 4.01 7.58 4.01 12C4.01 16.42 7.58 20 12 20C15.73 20 18.84 17.45 19.73 14H17.65C16.83 16.33 14.61 18 12 18C8.69 18 6 15.31 6 12C6 8.69 8.69 6 12 6C13.66 6 15.14 6.69 16.22 7.78L13 11H20V4L17.65 6.35Z" fill="#58A6FF"/>
       </svg>
     </div>
-  </div>
+  </td></tr></table>
 
 </div>
 
@@ -543,21 +499,21 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Kadhare-Raj-Chandrakant" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, rgba(88,166,255,0.08), rgba(88,166,255,0.03)); border: 1px solid rgba(88,166,255,0.2); border-radius: 12px; padding: 12px 24px; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
+          <div style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
             <span style="font-size: 18px;">🐙</span> GitHub
           </div>
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/kadhare-raj-chandrakant/" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, rgba(57,210,192,0.08), rgba(57,210,192,0.03)); border: 1px solid rgba(57,210,192,0.2); border-radius: 12px; padding: 12px 24px; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
+          <div style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
             <span style="font-size: 18px;">💼</span> LinkedIn
           </div>
         </a>
       </td>
       <td align="center">
         <a href="mailto:kadhare.raj.chandrakant@example.com" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, rgba(188,140,255,0.08), rgba(188,140,255,0.03)); border: 1px solid rgba(188,140,255,0.2); border-radius: 12px; padding: 12px 24px; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
+          <div style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 12px; padding: 12px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
             <span style="font-size: 18px;">✉️</span> Email
           </div>
         </a>
