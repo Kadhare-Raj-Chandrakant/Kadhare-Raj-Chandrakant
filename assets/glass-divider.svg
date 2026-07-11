@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="glassGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="20%" stop-color="#1A2333" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#1A2333" stop-opacity="0.5"/>
+      <stop offset="80%" stop-color="#1A2333" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="5%" stop-color="#0D1117"/>
+      <stop offset="25%" stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#BC8CFF" stop-opacity="0.15"/>
+      <stop offset="75%" stop-color="#39D2C0" stop-opacity="0.15"/>
+      <stop offset="95%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect x="200" y="5" width="800" height="30" rx="15" fill="url(#glassGrad)" stroke="url(#glassBorder)" stroke-width="0.5"/>
+  <!-- Glass shine -->
+  <rect x="200" y="5" width="800" height="15" rx="15" fill="white" opacity="0.03">
+    <animate attributeName="opacity" values="0.02;0.06;0.02" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Center dot -->
+  <circle cx="600" cy="20" r="2" fill="#58A6FF" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

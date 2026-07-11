@@ -1,0 +1,16 @@
+# Output
+dist/
+
+# Environment
+.env
+.venv
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db

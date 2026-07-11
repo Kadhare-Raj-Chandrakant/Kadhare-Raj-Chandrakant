@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 50" width="1200" height="50" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="circuitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="15%" stop-color="#58A6FF" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#BC8CFF" stop-opacity="0.5"/>
+      <stop offset="85%" stop-color="#39D2C0" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#circuitGrad)" stroke-width="0.8" opacity="0.5">
+    <!-- Main horizontal line -->
+    <line x1="0" y1="25" x2="1200" y2="25"/>
+    <!-- Circuit branches -->
+    <line x1="100" y1="25" x2="100" y2="10"/>
+    <line x1="100" y1="10" x2="130" y2="10"/>
+    <line x1="130" y1="10" x2="130" y2="25"/>
+    <line x1="250" y1="25" x2="250" y2="40"/>
+    <line x1="250" y1="40" x2="280" y2="40"/>
+    <line x1="280" y1="40" x2="280" y2="25"/>
+    <line x1="450" y1="25" x2="450" y2="8"/>
+    <line x1="450" y1="8" x2="490" y2="8"/>
+    <line x1="490" y1="8" x2="490" y2="25"/>
+    <line x1="650" y1="25" x2="650" y2="42"/>
+    <line x1="650" y1="42" x2="690" y2="42"/>
+    <line x1="690" y1="42" x2="690" y2="25"/>
+    <line x1="850" y1="25" x2="850" y2="12"/>
+    <line x1="850" y1="12" x2="880" y2="12"/>
+    <line x1="880" y1="12" x2="880" y2="25"/>
+    <line x1="1000" y1="25" x2="1000" y2="38"/>
+    <line x1="1000" y1="38" x2="1030" y2="38"/>
+    <line x1="1030" y1="38" x2="1030" y2="25"/>
+    <line x1="1120" y1="25" x2="1120" y2="10"/>
+    <line x1="1120" y1="10" x2="1150" y2="10"/>
+    <line x1="1150" y1="10" x2="1150" y2="25"/>
+  </g>
+  <!-- Nodes -->
+  <g fill="#58A6FF">
+    <circle cx="100" cy="25" r="2" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="280" cy="25" r="2" fill="#BC8CFF" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <circle cx="490" cy="25" r="2" fill="#39D2C0" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <circle cx="690" cy="25" r="2" fill="#58A6FF" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+    <circle cx="880" cy="25" r="2" fill="#BC8CFF" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite" begin="2s"/>
+    </circle>
+    <circle cx="1030" cy="25" r="2" fill="#39D2C0" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite" begin="2.5s"/>
+    </circle>
+    <circle cx="1150" cy="25" r="2" fill="#58A6FF" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" begin="3s"/>
+    </circle>
+  </g>
+</svg>

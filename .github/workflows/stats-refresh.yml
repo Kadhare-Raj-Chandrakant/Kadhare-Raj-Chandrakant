@@ -1,0 +1,19 @@
+name: Refresh GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          echo "Stats would be refreshed here"
+          echo "Note: GitHub stats images are served dynamically by https://github-readme-stats.vercel.app"
+          echo "This workflow ensures the repository stays active for scheduled updates"

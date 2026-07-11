@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="tli" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#39D2C0"/>
+    </linearGradient>
+  </defs>
+  <line x1="24" y1="6" x2="24" y2="42" stroke="url(#tli)" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="24" cy="12" r="4" fill="url(#tli)" opacity="0.6">
+    <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="24" cy="24" r="4" fill="url(#tli)" opacity="0.4"/>
+  <circle cx="24" cy="36" r="4" fill="url(#tli)" opacity="0.2"/>
+  <line x1="28" y1="12" x2="36" y2="12" stroke="#58A6FF" stroke-width="0.8" opacity="0.3"/>
+  <line x1="28" y1="24" x2="36" y2="24" stroke="#39D2C0" stroke-width="0.8" opacity="0.2"/>
+  <line x1="28" y1="36" x2="36" y2="36" stroke="#BC8CFF" stroke-width="0.8" opacity="0.15"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="ai" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#BC8CFF"/>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="20" fill="none" stroke="url(#ai)" stroke-width="1" opacity="0.3"/>
+  <circle cx="24" cy="18" r="5" fill="url(#ai)" opacity="0.8"/>
+  <path d="M14,34 Q14,26 24,26 Q34,26 34,34" fill="url(#ai)" opacity="0.6"/>
+  <circle cx="24" cy="24" r="22" fill="none" stroke="#58A6FF" stroke-width="0.5" opacity="0.2">
+    <animate attributeName="r" values="22;25;22" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.3;0.15" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

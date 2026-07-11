@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="25%" stop-color="#58A6FF" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#BC8CFF" stop-opacity="0.3"/>
+      <stop offset="75%" stop-color="#39D2C0" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,30 Q150,0 300,30 Q450,60 600,30 Q750,0 900,30 Q1050,60 1200,30" fill="none" stroke="url(#waveGrad)" stroke-width="1.5">
+    <animate attributeName="d" values="M0,30 Q150,0 300,30 Q450,60 600,30 Q750,0 900,30 Q1050,60 1200,30;M0,30 Q150,60 300,30 Q450,0 600,30 Q750,60 900,30 Q1050,0 1200,30;M0,30 Q150,0 300,30 Q450,60 600,30 Q750,0 900,30 Q1050,60 1200,30" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,35 Q150,5 300,35 Q450,65 600,35 Q750,5 900,35 Q1050,65 1200,35" fill="none" stroke="#58A6FF" stroke-width="0.5" opacity="0.2">
+    <animate attributeName="d" values="M0,35 Q150,5 300,35 Q450,65 600,35 Q750,5 900,35 Q1050,65 1200,35;M0,35 Q150,65 300,35 Q450,5 600,35 Q750,65 900,35 Q1050,5 1200,35;M0,35 Q150,5 300,35 Q450,65 600,35 Q750,5 900,35 Q1050,65 1200,35" dur="6s" repeatCount="indefinite" begin="2s"/>
+  </path>
+</svg>

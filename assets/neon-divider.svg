@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="20%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#BC8CFF" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#39D2C0" stop-opacity="0.8"/>
+      <stop offset="80%" stop-color="#39D2C0" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <line x1="0" y1="20" x2="1200" y2="20" stroke="url(#neonGrad)" stroke-width="1" filter="url(#neonGlow)">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="0" y1="20" x2="1200" y2="20" stroke="url(#neonGrad)" stroke-width="0.5" opacity="0.3"/>
+  <!-- Side dots -->
+  <circle cx="400" cy="20" r="2" fill="#58A6FF" filter="url(#neonGlow)">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="20" r="2" fill="#BC8CFF" filter="url(#neonGlow)">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle cx="800" cy="20" r="2" fill="#39D2C0" filter="url(#neonGlow)">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+</svg>

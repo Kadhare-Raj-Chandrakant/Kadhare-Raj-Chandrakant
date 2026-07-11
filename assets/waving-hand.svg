@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g transform-origin="32 32">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-15 32 32;10 32 32;-10 32 32;15 32 32;-15 32 32" dur="2.5s" repeatCount="indefinite" keyTimes="0;0.15;0.3;0.45;0.6"/>
+    </g>
+    <!-- Palm -->
+    <rect x="22" y="28" width="20" height="14" rx="4" fill="#58A6FF" opacity="0.9"/>
+    <!-- Thumb -->
+    <rect x="16" y="30" width="8" height="5" rx="2.5" fill="#58A6FF" opacity="0.9"/>
+    <!-- Fingers -->
+    <rect x="23" y="22" width="4" height="10" rx="2" fill="#58A6FF" opacity="0.85">
+      <animate attributeName="y" values="22;18;22" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="28" y="20" width="4" height="12" rx="2" fill="#BC8CFF" opacity="0.85">
+      <animate attributeName="y" values="20;16;20" dur="2.5s" repeatCount="indefinite" begin="0.1s"/>
+    </rect>
+    <rect x="33" y="21" width="4" height="11" rx="2" fill="#58A6FF" opacity="0.85">
+      <animate attributeName="y" values="21;17;21" dur="2.5s" repeatCount="indefinite" begin="0.2s"/>
+    </rect>
+    <rect x="38" y="23" width="4" height="10" rx="2" fill="#39D2C0" opacity="0.85">
+      <animate attributeName="y" values="23;19;23" dur="2.5s" repeatCount="indefinite" begin="0.3s"/>
+    </rect>
+    <!-- Wrist -->
+    <rect x="28" y="40" width="8" height="8" rx="2" fill="#58A6FF" opacity="0.5"/>
+    <!-- Glow -->
+    <circle cx="32" cy="32" r="28" fill="none" stroke="#58A6FF" stroke-width="0.5" opacity="0.2">
+      <animate attributeName="r" values="26;30;26" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.3;0.15" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
