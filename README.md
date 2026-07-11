@@ -211,18 +211,7 @@
       </picture>
     </div>
     <div style="border-radius: 20px; border: 1px solid #21262d; margin-top: 4px;">
-      <svg width="100%" height="6" viewBox="0 0 900 6">
-        <defs>
-          <linearGradient id="snakeBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#58A6FF"/>
-            <stop offset="50%" stop-color="#BC8CFF"/>
-            <stop offset="100%" stop-color="#39D2C0"/>
-          </linearGradient>
-        </defs>
-        <rect x="0" y="0" width="900" height="6" rx="3" fill="none" stroke="url(#snakeBorder)" stroke-width="1">
-          <animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/>
-        </rect>
-      </svg>
+      <div style="height: 6px; width: 100%; background: linear-gradient(90deg, #58A6FF, #BC8CFF, #39D2C0); border-radius: 3px;"></div>
     </div>
   </td></tr></table>
 
