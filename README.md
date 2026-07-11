@@ -328,7 +328,7 @@
   <br>
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Kadhare-Raj-Chandrakant&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" width="850">
+  <img src="https://trophygh.kolioaris.xyz/?username=Kadhare-Raj-Chandrakant&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" width="850">
 
   <br><br>
 
