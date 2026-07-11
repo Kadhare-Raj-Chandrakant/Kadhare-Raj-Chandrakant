@@ -376,7 +376,6 @@
   <br>
 
   <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 800px;">
-
     <tr>
       <td width="30" valign="top" align="center">
         <div style="padding-top: 6px;">
@@ -394,7 +393,6 @@
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Building projects, contributing to open source, and exploring AI and full-stack development.</div>
       </td>
     </tr>
-
     <tr>
       <td width="30" valign="top" align="center">
         <div style="padding-top: 6px;">
@@ -412,7 +410,6 @@
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Deepening expertise in cloud architecture, AI/ML, and system design. Exploring new technologies daily.</div>
       </td>
     </tr>
-
     <tr>
       <td width="30" valign="top" align="center">
         <div style="padding-top: 6px;">
@@ -430,7 +427,6 @@
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">To innovate, inspire, and make a lasting impact through technology. Open to collaborations and new opportunities.</div>
       </td>
     </tr>
-
   </table>
 
 </div>
