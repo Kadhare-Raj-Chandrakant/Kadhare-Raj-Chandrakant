@@ -165,16 +165,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadhare-Raj-Chandrakant&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8&border_radius=12" alt="Top Languages" width="360">
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kadhare-Raj-Chandrakant&hide_border=true&background=0D1117&stroke=58A6FF&ring=BC8CFF&fire=39D2C0&currStreakNum=C9D1D9&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="820">
-      </td>
-    </tr>
   </table>
-
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kadhare-Raj-Chandrakant&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=39D2C0&area=true&hide_border=true&radius=12" alt="Activity Graph" width="900">
 
   <br><br>
 
