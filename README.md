@@ -114,49 +114,36 @@
     </tr>
   </table>
 
-  <div style="max-width: 900px; margin: 0 auto;">
-
-    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF; letter-spacing: 3px; text-transform: uppercase;">Frontend</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">HTML5</span>
-      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">CSS3</span>
-      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">JavaScript</span>
-      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">React</span>
-    </div>
-
-    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF; letter-spacing: 3px; text-transform: uppercase;">Backend</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Node.js</span>
-      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Python</span>
-      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Java</span>
-      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Express</span>
-    </div>
-
-    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #39D2C0; letter-spacing: 3px; text-transform: uppercase;">Languages</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <span style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Python</span>
-      <span style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">JavaScript</span>
-      <span style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Java</span>
-      <span style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">HTML/CSS</span>
-    </div>
-
-    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF; letter-spacing: 3px; text-transform: uppercase;">Tools & DevOps</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Git</span>
-      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">GitHub</span>
-      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">VS Code</span>
-      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Docker</span>
-    </div>
-
-    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF; letter-spacing: 3px; text-transform: uppercase;">AI & ML</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">OpenAI</span>
-      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">TensorFlow</span>
-      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">LLMs</span>
-      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">ML</span>
-    </div>
-
-  </div>
+  <table align="center" border="0" cellpadding="6" cellspacing="6">
+    <tr><td><sub><b>Frontend</b></sub></td></tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+      <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
+      <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></td>
+    </tr>
+    <tr><td><sub><b>Backend</b></sub></td></tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
+      <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
+      <td><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"></td>
+    </tr>
+    <tr><td><sub><b>Cloud & DevOps</b></sub></td></tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
+      <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></td>
+      <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></td>
+      <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
+    </tr>
+    <tr><td><sub><b>AI & ML</b></sub></td></tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></td>
+      <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></td>
+      <td><img src="https://img.shields.io/badge/LLM-6C47FF?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs"></td>
+      <td><img src="https://img.shields.io/badge/ML-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML"></td>
+    </tr>
+  </table>
 
 </div>
 
