@@ -21,41 +21,7 @@
 </table>
 
 <!-- TYPING ANIMATION -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="600" height="60">
-  <defs>
-    <linearGradient id="typeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="50%" stop-color="#BC8CFF"/>
-      <stop offset="100%" stop-color="#39D2C0"/>
-    </linearGradient>
-  </defs>
-  <text x="300" y="35" text-anchor="middle" font-family="SF Mono, Fira Code, monospace" font-size="20" font-weight="400" fill="url(#typeGrad)" letter-spacing="2">
-    <tspan>
-      Software Engineer
-      <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
-      Open Source Enthusiast
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
-      Full Stack Developer
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0;0;0;0" dur="24s" repeatCount="indefinite"/>
-      AI Builder
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;1;0;0" dur="24s" repeatCount="indefinite"/>
-      Problem Solver
-    </tspan>
-  </text>
-  <text x="475" y="35" font-family="monospace" font-size="22" fill="#8B949E" opacity="0.6">
-    |
-    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
-  </text>
-</svg>
+<img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/typing.svg" alt="Software Engineer | Open Source Enthusiast | Full Stack Developer | AI Builder | Problem Solver" width="600">
 
 </div>
 
@@ -72,7 +38,7 @@
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
         <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="background: linear-gradient(135deg, #58A6FF, #BC8CFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">About</span> Me
+          <span style="color: #58A6FF;">About</span> Me
         </h2>
       </td>
     </tr>
@@ -81,21 +47,21 @@
   <table align="center" border="0" cellpadding="12" cellspacing="12" style="max-width: 900px;">
     <tr>
       <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(88,166,255,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(88,166,255,0.1)';" onmouseout="this.style.borderColor='rgba(88,166,255,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: center;">
           <div style="font-size: 32px; margin-bottom: 8px;">🚀</div>
           <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #58A6FF;">Currently Building</h3>
           <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Innovative projects that merge creativity with technology. Exploring AI, full-stack, and open source solutions.</p>
         </div>
       </td>
       <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(188,140,255,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(188,140,255,0.1)';" onmouseout="this.style.borderColor='rgba(188,140,255,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: center;">
           <div style="font-size: 32px; margin-bottom: 8px;">📚</div>
           <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #BC8CFF;">Learning</h3>
           <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Deepening expertise in AI/ML, cloud architecture, and system design. Every day is a chance to grow.</p>
         </div>
       </td>
       <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(57,210,192,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(57,210,192,0.1)';" onmouseout="this.style.borderColor='rgba(57,210,192,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: center;">
           <div style="font-size: 32px; margin-bottom: 8px;">🌍</div>
           <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #39D2C0;">Open Source</h3>
           <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Passionate about contributing to open source. Believing in collaborative development and knowledge sharing.</p>
@@ -104,21 +70,21 @@
     </tr>
     <tr>
       <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(88,166,255,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(88,166,255,0.1)';" onmouseout="this.style.borderColor='rgba(88,166,255,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: center;">
           <div style="font-size: 32px; margin-bottom: 8px;">📍</div>
           <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #58A6FF;">Location</h3>
           <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Building from somewhere in the world, contributing to the global developer community.</p>
         </div>
       </td>
       <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(188,140,255,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(188,140,255,0.1)';" onmouseout="this.style.borderColor='rgba(188,140,255,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: center;">
           <div style="font-size: 32px; margin-bottom: 8px;">💡</div>
           <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #BC8CFF;">Interests</h3>
           <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">AI, Web Development, Cloud Computing, Open Source, System Design, and building meaningful software.</p>
         </div>
       </td>
       <td width="33%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(57,210,192,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(57,210,192,0.1)';" onmouseout="this.style.borderColor='rgba(57,210,192,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: center;">
           <div style="font-size: 32px; margin-bottom: 8px;">🎯</div>
           <h3 style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #39D2C0;">Goals</h3>
           <p style="margin: 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">To innovate, inspire, and make a lasting impact through technology. Continually pushing boundaries.</p>
@@ -142,7 +108,7 @@
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
         <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="background: linear-gradient(135deg, #58A6FF, #39D2C0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Tech</span> Stack
+          <span style="color: #58A6FF;">Tech</span> Stack
         </h2>
       </td>
     </tr>
@@ -272,7 +238,7 @@
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
         <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="background: linear-gradient(135deg, #BC8CFF, #58A6FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GitHub</span> Analytics
+          <span style="color: #BC8CFF;">GitHub</span> Analytics
         </h2>
       </td>
     </tr>
@@ -319,7 +285,7 @@
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
         <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="background: linear-gradient(135deg, #39D2C0, #58A6FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Contribution</span> Snake
+          <span style="color: #39D2C0;">Contribution</span> Snake
         </h2>
       </td>
     </tr>
@@ -337,10 +303,17 @@
       </picture>
     </div>
     <!-- Frame glow -->
-    <div style="position: absolute; top: -1px; left: -1px; right: -1px; bottom: -1px; border-radius: 20px; border: 1px solid rgba(88,166,255,0.1); pointer-events: none; opacity: 0.5;">
-      <svg width="100%" height="100%" style="position: absolute; top: 0; left: 0;">
-        <rect x="0" y="0" width="100%" height="100%" rx="20" fill="none" stroke="url(#snakeBorder)" stroke-width="1">
-          <animate attributeName="stroke-opacity" values="0.1;0.4;0.1" dur="4s" repeatCount="indefinite"/>
+    <div style="border-radius: 20px; border: 1px solid rgba(88,166,255,0.1); opacity: 0.5; margin-top: 4px;">
+      <svg width="100%" height="6" viewBox="0 0 900 6">
+        <defs>
+          <linearGradient id="snakeBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#58A6FF"/>
+            <stop offset="50%" stop-color="#BC8CFF"/>
+            <stop offset="100%" stop-color="#39D2C0"/>
+          </linearGradient>
+        </defs>
+        <rect x="0" y="0" width="900" height="6" rx="3" fill="none" stroke="url(#snakeBorder)" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/>
         </rect>
       </svg>
     </div>
@@ -361,7 +334,7 @@
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
         <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="background: linear-gradient(135deg, #39D2C0, #58A6FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Featured</span> Projects
+          <span style="color: #39D2C0;">Featured</span> Projects
         </h2>
       </td>
     </tr>
@@ -373,7 +346,7 @@
 
     <tr>
       <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(88,166,255,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(88,166,255,0.1)';" onmouseout="this.style.borderColor='rgba(88,166,255,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px;">
           <div style="display: flex; align-items: center; margin-bottom: 10px;">
             <span style="font-size: 24px; margin-right: 10px;">🧠</span>
             <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">neural-experimental</h3>
@@ -392,7 +365,7 @@
         </div>
       </td>
       <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(188,140,255,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(188,140,255,0.1)';" onmouseout="this.style.borderColor='rgba(188,140,255,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px;">
           <div style="display: flex; align-items: center; margin-bottom: 10px;">
             <span style="font-size: 24px; margin-right: 10px;">🎙️</span>
             <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">voice</h3>
@@ -414,7 +387,7 @@
 
     <tr>
       <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(57,210,192,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(57,210,192,0.1)';" onmouseout="this.style.borderColor='rgba(57,210,192,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px;">
           <div style="display: flex; align-items: center; margin-bottom: 10px;">
             <span style="font-size: 24px; margin-right: 10px;">🔬</span>
             <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">physicsproject</h3>
@@ -433,7 +406,7 @@
         </div>
       </td>
       <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px; transition: all 0.3s ease;" onmouseover="this.style.borderColor='rgba(88,166,255,0.4)'; this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 32px rgba(88,166,255,0.1)';" onmouseout="this.style.borderColor='rgba(88,166,255,0.15)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <div style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(88,166,255,0.15); border-radius: 16px; padding: 24px; text-align: left; min-height: 180px;">
           <div style="display: flex; align-items: center; margin-bottom: 10px;">
             <span style="font-size: 24px; margin-right: 10px;">🎨</span>
             <h3 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 17px; font-weight: 600; color: #C9D1D9;">Raphael</h3>
@@ -470,7 +443,7 @@
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
         <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="background: linear-gradient(135deg, #BC8CFF, #39D2C0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Achievements</span>
+          <span style="color: #BC8CFF;">Achievements</span>
         </h2>
       </td>
     </tr>
@@ -518,7 +491,7 @@
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
         <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="background: linear-gradient(135deg, #58A6FF, #39D2C0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Journey</span> Timeline
+          <span style="color: #58A6FF;">Journey</span> Timeline
         </h2>
       </td>
     </tr>
@@ -529,16 +502,17 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 800px;">
 
     <tr>
-      <td width="40" valign="top" align="center">
-        <div style="width: 3px; height: 100%; background: linear-gradient(to bottom, #58A6FF, #BC8CFF, #39D2C0); opacity: 0.3; position: relative;">
-          <div style="position: absolute; top: 8px; left: -5px; width: 13px; height: 13px; border-radius: 50%; background: #58A6FF; border: 2px solid #0D1117;">
-            <div style="position: absolute; top: 2px; left: 2px; width: 9px; height: 9px; border-radius: 50%; background: #58A6FF; opacity: 0.6;">
-              <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
-            </div>
-          </div>
+      <td width="30" valign="top" align="center">
+        <div style="padding-top: 6px;">
+          <svg width="16" height="16" viewBox="0 0 16 16">
+            <circle cx="8" cy="8" r="6" fill="#58A6FF" opacity="0.8">
+              <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="8" cy="8" r="7" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.3"/>
+          </svg>
         </div>
       </td>
-      <td valign="top" style="padding-bottom: 32px; padding-left: 16px;">
+      <td valign="top" style="padding-bottom: 28px; padding-left: 12px;">
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; color: #58A6FF; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Present</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; color: #C9D1D9; margin-bottom: 4px;">Active Development</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Building projects, contributing to open source, and exploring AI and full-stack development.</div>
@@ -546,16 +520,17 @@
     </tr>
 
     <tr>
-      <td width="40" valign="top" align="center">
-        <div style="width: 3px; height: 100%; background: linear-gradient(to bottom, #58A6FF, #BC8CFF, #39D2C0); opacity: 0.3; position: relative;">
-          <div style="position: absolute; top: 8px; left: -5px; width: 13px; height: 13px; border-radius: 50%; background: #BC8CFF; border: 2px solid #0D1117;">
-            <div style="position: absolute; top: 2px; left: 2px; width: 9px; height: 9px; border-radius: 50%; background: #BC8CFF; opacity: 0.6;">
-              <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" begin="0.5s"/>
-            </div>
-          </div>
+      <td width="30" valign="top" align="center">
+        <div style="padding-top: 6px;">
+          <svg width="16" height="16" viewBox="0 0 16 16">
+            <circle cx="8" cy="8" r="6" fill="#BC8CFF" opacity="0.8">
+              <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+            </circle>
+            <circle cx="8" cy="8" r="7" fill="none" stroke="#BC8CFF" stroke-width="1" opacity="0.3"/>
+          </svg>
         </div>
       </td>
-      <td valign="top" style="padding-bottom: 32px; padding-left: 16px;">
+      <td valign="top" style="padding-bottom: 28px; padding-left: 12px;">
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; color: #BC8CFF; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Ongoing</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; color: #C9D1D9; margin-bottom: 4px;">Learning & Growth</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Deepening expertise in cloud architecture, AI/ML, and system design. Exploring new technologies daily.</div>
@@ -563,16 +538,17 @@
     </tr>
 
     <tr>
-      <td width="40" valign="top" align="center">
-        <div style="width: 3px; height: 100%; background: linear-gradient(to bottom, #58A6FF, #BC8CFF, #39D2C0); opacity: 0.3; position: relative;">
-          <div style="position: absolute; top: 8px; left: -5px; width: 13px; height: 13px; border-radius: 50%; background: #39D2C0; border: 2px solid #0D1117;">
-            <div style="position: absolute; top: 2px; left: 2px; width: 9px; height: 9px; border-radius: 50%; background: #39D2C0; opacity: 0.6;">
-              <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" begin="1s"/>
-            </div>
-          </div>
+      <td width="30" valign="top" align="center">
+        <div style="padding-top: 6px;">
+          <svg width="16" height="16" viewBox="0 0 16 16">
+            <circle cx="8" cy="8" r="6" fill="#39D2C0" opacity="0.8">
+              <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="1s"/>
+            </circle>
+            <circle cx="8" cy="8" r="7" fill="none" stroke="#39D2C0" stroke-width="1" opacity="0.3"/>
+          </svg>
         </div>
       </td>
-      <td valign="top" style="padding-bottom: 32px; padding-left: 16px;">
+      <td valign="top" style="padding-bottom: 28px; padding-left: 12px;">
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; color: #39D2C0; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Future</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; color: #C9D1D9; margin-bottom: 4px;">Goals & Aspirations</div>
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">To innovate, inspire, and make a lasting impact through technology. Open to collaborations and new opportunities.</div>
@@ -612,9 +588,8 @@
       — Steve Jobs
     </div>
     <div style="margin-top: 16px;">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="cursor: pointer; opacity: 0.4;">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="opacity: 0.4;">
         <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4C7.58 4 4.01 7.58 4.01 12C4.01 16.42 7.58 20 12 20C15.73 20 18.84 17.45 19.73 14H17.65C16.83 16.33 14.61 18 12 18C8.69 18 6 15.31 6 12C6 8.69 8.69 6 12 6C13.66 6 15.14 6.69 16.22 7.78L13 11H20V4L17.65 6.35Z" fill="#58A6FF"/>
-        <animateTransform attributeName="transform" type="rotate" values="0 12 12;360 12 12" dur="2s" repeatCount="indefinite"/>
       </svg>
     </div>
   </div>
@@ -634,7 +609,7 @@
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
         <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="background: linear-gradient(135deg, #58A6FF, #BC8CFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Let's</span> Connect
+          <span style="color: #58A6FF;">Let's</span> Connect
         </h2>
       </td>
     </tr>
@@ -646,21 +621,21 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Kadhare-Raj-Chandrakant" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, rgba(88,166,255,0.08), rgba(88,166,255,0.03)); border: 1px solid rgba(88,166,255,0.2); border-radius: 12px; padding: 12px 24px; transition: all 0.3s ease; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;" onmouseover="this.style.borderColor='rgba(88,166,255,0.5)'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 20px rgba(88,166,255,0.15)';" onmouseout="this.style.borderColor='rgba(88,166,255,0.2)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+          <div style="background: linear-gradient(135deg, rgba(88,166,255,0.08), rgba(88,166,255,0.03)); border: 1px solid rgba(88,166,255,0.2); border-radius: 12px; padding: 12px 24px; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
             <span style="font-size: 18px;">🐙</span> GitHub
           </div>
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/kadhare-raj-chandrakant/" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, rgba(57,210,192,0.08), rgba(57,210,192,0.03)); border: 1px solid rgba(57,210,192,0.2); border-radius: 12px; padding: 12px 24px; transition: all 0.3s ease; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;" onmouseover="this.style.borderColor='rgba(57,210,192,0.5)'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 20px rgba(57,210,192,0.15)';" onmouseout="this.style.borderColor='rgba(57,210,192,0.2)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+          <div style="background: linear-gradient(135deg, rgba(57,210,192,0.08), rgba(57,210,192,0.03)); border: 1px solid rgba(57,210,192,0.2); border-radius: 12px; padding: 12px 24px; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
             <span style="font-size: 18px;">💼</span> LinkedIn
           </div>
         </a>
       </td>
       <td align="center">
         <a href="mailto:kadhare.raj.chandrakant@example.com" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, rgba(188,140,255,0.08), rgba(188,140,255,0.03)); border: 1px solid rgba(188,140,255,0.2); border-radius: 12px; padding: 12px 24px; transition: all 0.3s ease; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;" onmouseover="this.style.borderColor='rgba(188,140,255,0.5)'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 20px rgba(188,140,255,0.15)';" onmouseout="this.style.borderColor='rgba(188,140,255,0.2)'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+          <div style="background: linear-gradient(135deg, rgba(188,140,255,0.08), rgba(188,140,255,0.03)); border: 1px solid rgba(188,140,255,0.2); border-radius: 12px; padding: 12px 24px; display: flex; align-items: center; gap: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">
             <span style="font-size: 18px;">✉️</span> Email
           </div>
         </a>
@@ -680,11 +655,11 @@
 <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/star-divider.svg" alt="" width="100%">
 
 <!-- FOOTER -->
-<div align="center" style="position: relative;">
+<div align="center">
 
   <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/footer-bg.svg" alt="" width="100%" style="display: block;">
 
-  <div style="margin-top: -100px; padding-bottom: 40px; position: relative; z-index: 1;">
+  <div style="padding-top: 20px; padding-bottom: 40px;">
 
     <div style="font-family: Georgia, serif; font-size: 18px; font-style: italic; color: #8B949E; letter-spacing: 2px; margin-bottom: 24px;">
       Thanks for visiting.
@@ -716,13 +691,3 @@
 
 </div>
 
-<!-- Hidden SVG definitions for gradient refs used in snake frame -->
-<svg width="0" height="0" style="position: absolute;">
-  <defs>
-    <linearGradient id="snakeBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="50%" stop-color="#BC8CFF"/>
-      <stop offset="100%" stop-color="#39D2C0"/>
-    </linearGradient>
-  </defs>
-</svg>

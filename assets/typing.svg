@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="600" height="60">
+  <defs>
+    <linearGradient id="typeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#BC8CFF"/>
+      <stop offset="100%" stop-color="#39D2C0"/>
+    </linearGradient>
+  </defs>
+  <text x="300" y="35" text-anchor="middle" font-family="SF Mono, Fira Code, monospace" font-size="20" font-weight="400" fill="url(#typeGrad)" letter-spacing="2">
+    <tspan>
+      Software Engineer
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
+      Open Source Enthusiast
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
+      Full Stack Developer
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0;0;0;0" dur="24s" repeatCount="indefinite"/>
+      AI Builder
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;1;0;0" dur="24s" repeatCount="indefinite"/>
+      Problem Solver
+    </tspan>
+  </text>
+  <text x="475" y="35" font-family="monospace" font-size="22" fill="#8B949E" opacity="0.6">
+    |
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </text>
+</svg>
