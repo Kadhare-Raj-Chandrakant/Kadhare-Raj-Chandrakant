@@ -556,7 +556,7 @@
     </tr>
     <tr>
       <td align="center" style="padding-bottom: 16px;">
-        <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; letter-spacing: 1px;">Built with &#10084;&#65039; and open source</p>
+        <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; letter-spacing: 1px;">Crafted with code and curiosity</p>
       </td>
     </tr>
     <tr>
