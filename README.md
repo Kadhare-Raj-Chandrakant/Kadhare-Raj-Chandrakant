@@ -291,17 +291,23 @@
 <!-- DIVIDER: GLASS -->
 <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/glass-divider.svg" alt="" width="100%">
 
-<!-- ACHIEVEMENTS SECTION -->
+<!-- ACHIEVEMENTS & MILESTONES SECTION -->
+<style>
+  .ach-card:hover { opacity: 0.85; }
+</style>
 <div align="center">
 
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="right" valign="middle">
-        <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/section-icons/achievements.svg" alt="" width="36" height="36">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
-        <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="color: #BC8CFF;">Achievements</span>
+        <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
+          <span style="color: #58A6FF;">Achievements</span> & Milestones
         </h2>
       </td>
     </tr>
@@ -309,47 +315,82 @@
 
   <br>
 
-  <!-- GitHub Trophies -->
-  <img src="https://trophygh.kolioaris.xyz/?username=Kadhare-Raj-Chandrakant&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" width="850">
-
-  <br><br>
-
-  <table align="center" border="0" cellpadding="10" cellspacing="10" style="max-width: 900px;">
+  <!-- Achievement Cards -->
+  <table align="center" border="0" cellpadding="8" cellspacing="8" style="max-width: 920px;">
     <tr>
-      <td align="center" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 14px; padding: 20px 24px;">
-        <div style="font-size: 28px; margin-bottom: 6px;">💻</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF;">Open Source</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; margin-top: 4px;">Contributing to community projects</div>
-      </td>
-      <td align="center" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 14px; padding: 20px 24px;">
-        <div style="font-size: 28px; margin-bottom: 6px;">🚀</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF;">Projects</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; margin-top: 4px;">Building innovative solutions</div>
-      </td>
-      <td align="center" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 14px; padding: 20px 24px;">
-        <div style="font-size: 28px; margin-bottom: 6px;">🌱</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #39D2C0;">Learning</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; margin-top: 4px;">Continuous growth & improvement</div>
-      </td>
+      <td width="33%" valign="top" class="ach-card" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 22px 18px; text-align: center; transition: opacity 0.2s;">
+          <div style="margin-bottom: 10px;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09zM12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2zM9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg></div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF; margin-bottom: 4px;">Open Source Journey</div>
+          <div style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 9px; color: #58A6FF; background: #58A6FF22; border: 1px solid #58A6FF44; border-radius: 20px; padding: 2px 10px; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 8px;">Active</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Contributing to community projects</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 700; color: #C9D1D9; margin-top: 10px;"><!-- DYN:repos -->8<!-- /DYN:repos --></div>
+        </td>
+      <td width="33%" valign="top" class="ach-card" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 22px 18px; text-align: center; transition: opacity 0.2s;">
+          <div style="margin-bottom: 10px;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M16 18l6-6-6-6M8 6l-6 6 6 6" stroke="#BC8CFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg></div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF; margin-bottom: 4px;">Projects Built</div>
+          <div style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 9px; color: #BC8CFF; background: #BC8CFF22; border: 1px solid #BC8CFF44; border-radius: 20px; padding: 2px 10px; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 8px;">Building</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Full-stack and AI-powered applications</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 700; color: #C9D1D9; margin-top: 10px;"><!-- DYN:repos -->8<!-- /DYN:repos --></div>
+        </td>
+      <td width="33%" valign="top" class="ach-card" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 22px 18px; text-align: center; transition: opacity 0.2s;">
+          <div style="margin-bottom: 10px;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2c0 4-4 6-4 10a4 4 0 0 0 8 0c0-4-4-6-4-10z" stroke="#39D2C0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg></div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #39D2C0; margin-bottom: 4px;">Contributions</div>
+          <div style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 9px; color: #39D2C0; background: #39D2C022; border: 1px solid #39D2C044; border-radius: 20px; padding: 2px 10px; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 8px;">Growing</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Commits, issues, and pull requests</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 700; color: #C9D1D9; margin-top: 10px;"><!-- DYN:contributions -->0<!-- /DYN:contributions --></div>
+        </td>
+    </tr>
+    <tr>
+      <td width="33%" valign="top" class="ach-card" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 22px 18px; text-align: center; transition: opacity 0.2s;">
+          <div style="margin-bottom: 10px;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M9.5 2a3.5 3.5 0 0 0-3 5.24A3 3 0 0 0 4 10a3 3 0 0 0 3 3h.5M14.5 2a3.5 3.5 0 0 1 3 5.24A3 3 0 0 1 20 10a3 3 0 0 1-3 3h-.5M8 13a4 4 0 0 0 8 0M7.5 17h9" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg></div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF; margin-bottom: 4px;">AI & Automation</div>
+          <div style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 9px; color: #58A6FF; background: #58A6FF22; border: 1px solid #58A6FF44; border-radius: 20px; padding: 2px 10px; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 8px;">Exploring</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Intelligent systems and workflows</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 700; color: #C9D1D9; margin-top: 10px;">Active</div>
+        </td>
+      <td width="33%" valign="top" class="ach-card" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 22px 18px; text-align: center; transition: opacity 0.2s;">
+          <div style="margin-bottom: 10px;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4 19V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v14M4 19l4-2 4 2 4-2M4 19h16M8 5v14" stroke="#BC8CFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg></div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF; margin-bottom: 4px;">Continuous Learning</div>
+          <div style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 9px; color: #BC8CFF; background: #BC8CFF22; border: 1px solid #BC8CFF44; border-radius: 20px; padding: 2px 10px; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 8px;">Ongoing</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Deepening expertise daily</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 700; color: #C9D1D9; margin-top: 10px;"><!-- DYN:years -->1<!-- /DYN:years --> yr</div>
+        </td>
+      <td width="33%" valign="top" class="ach-card" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px; padding: 22px 18px; text-align: center; transition: opacity 0.2s;">
+          <div style="margin-bottom: 10px;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10A15.3 15.3 0 0 1 12 2z" stroke="#39D2C0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg></div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #39D2C0; margin-bottom: 4px;">Community</div>
+          <div style="display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 9px; color: #39D2C0; background: #39D2C022; border: 1px solid #39D2C044; border-radius: 20px; padding: 2px 10px; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 8px;">Connected</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Building global developer network</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 22px; font-weight: 700; color: #C9D1D9; margin-top: 10px;"><!-- DYN:followers -->1<!-- /DYN:followers --></div>
+        </td>
     </tr>
   </table>
 
-</div>
+  <br>
 
-<!-- DIVIDER: WAVE -->
-<img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/wave-divider.svg" alt="" width="100%">
-
-<!-- TIMELINE SECTION -->
-<div align="center">
-
+  <!-- Milestone Timeline -->
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="right" valign="middle">
-        <img src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/section-icons/timeline.svg" alt="" width="36" height="36">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" stroke="#39D2C0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="4" y1="22" x2="4" y2="15" stroke="#39D2C0" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
       </td>
       <td align="left" valign="middle" style="padding-left: 12px;">
-        <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
-          <span style="color: #58A6FF;">Journey</span> Timeline
+        <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
+          <span style="color: #39D2C0;">Milestone</span> Timeline
         </h2>
       </td>
     </tr>
@@ -357,58 +398,218 @@
 
   <br>
 
-  <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 800px;">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 700px;">
     <tr>
-      <td width="30" valign="top" align="center">
-        <div style="padding-top: 6px;">
-          <svg width="16" height="16" viewBox="0 0 16 16">
-            <circle cx="8" cy="8" r="6" fill="#58A6FF" opacity="0.8">
-              <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
-            </circle>
-            <circle cx="8" cy="8" r="7" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.3"/>
-          </svg>
-        </div>
+        <td width="40" valign="top" align="center">
+          <div style="padding-top: 4px;"><svg width="18" height="18" viewBox="0 0 18 18"><circle cx="9" cy="9" r="7" fill="#39D2C0" stroke="#39D2C0" stroke-width="1.5" opacity="0.8"></circle><text x="9" y="13" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600">✓</text></svg></div>
+          <div style="width: 1px; height: 100%; min-height: 28px; background: #21262d; margin: 0 auto;"></div>
+        </td>
+        <td valign="top" style="padding-bottom: 24px; padding-left: 14px;">
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #39D2C0; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 3px;">Completed</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #C9D1D9; margin-bottom: 3px;">Started Programming</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Began the journey into software development and computer science.</div>
+        </td>
+      </tr>
+<tr>
+        <td width="40" valign="top" align="center">
+          <div style="padding-top: 4px;"><svg width="18" height="18" viewBox="0 0 18 18"><circle cx="9" cy="9" r="7" fill="#39D2C0" stroke="#39D2C0" stroke-width="1.5" opacity="0.8"></circle><text x="9" y="13" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600">✓</text></svg></div>
+          <div style="width: 1px; height: 100%; min-height: 28px; background: #21262d; margin: 0 auto;"></div>
+        </td>
+        <td valign="top" style="padding-bottom: 24px; padding-left: 14px;">
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #39D2C0; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 3px;">Completed</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #C9D1D9; margin-bottom: 3px;">First GitHub Repository</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Created the first repository, learning version control and collaboration.</div>
+        </td>
+      </tr>
+<tr>
+        <td width="40" valign="top" align="center">
+          <div style="padding-top: 4px;"><svg width="18" height="18" viewBox="0 0 18 18"><circle cx="9" cy="9" r="7" fill="#39D2C0" stroke="#39D2C0" stroke-width="1.5" opacity="0.8"></circle><text x="9" y="13" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600">✓</text></svg></div>
+          <div style="width: 1px; height: 100%; min-height: 28px; background: #21262d; margin: 0 auto;"></div>
+        </td>
+        <td valign="top" style="padding-bottom: 24px; padding-left: 14px;">
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #39D2C0; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 3px;">Completed</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #C9D1D9; margin-bottom: 3px;">First Open Source Contribution</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Contributed to community projects, embracing collaborative development.</div>
+        </td>
+      </tr>
+<tr>
+        <td width="40" valign="top" align="center">
+          <div style="padding-top: 4px;"><svg width="18" height="18" viewBox="0 0 18 18"><circle cx="9" cy="9" r="7" fill="#39D2C0" stroke="#39D2C0" stroke-width="1.5" opacity="0.8"></circle><text x="9" y="13" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600">✓</text></svg></div>
+          <div style="width: 1px; height: 100%; min-height: 28px; background: #21262d; margin: 0 auto;"></div>
+        </td>
+        <td valign="top" style="padding-bottom: 24px; padding-left: 14px;">
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #39D2C0; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 3px;">Completed</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #C9D1D9; margin-bottom: 3px;">Built AI Projects</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Explored AI/ML architectures and built intelligent applications.</div>
+        </td>
+      </tr>
+<tr>
+        <td width="40" valign="top" align="center">
+          <div style="padding-top: 4px;"><svg width="18" height="18" viewBox="0 0 18 18"><circle cx="9" cy="9" r="7" fill="#58A6FF" stroke="#58A6FF" stroke-width="1.5" opacity="0.8"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></circle><circle cx="9" cy="9" r="8" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.3"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></circle><text x="9" y="13" text-anchor="middle" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600">◉</text></svg></div>
+          <div style="width: 1px; height: 100%; min-height: 28px; background: #21262d; margin: 0 auto;"></div>
+        </td>
+        <td valign="top" style="padding-bottom: 24px; padding-left: 14px;">
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #58A6FF; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 3px;">In Progress</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #C9D1D9; margin-bottom: 3px;">Building Advanced Systems</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Developing advanced automation tools and full-stack solutions.</div>
+        </td>
+      </tr>
+<tr>
+        <td width="40" valign="top" align="center">
+          <div style="padding-top: 4px;"><svg width="18" height="18" viewBox="0 0 18 18"><circle cx="9" cy="9" r="7" fill="none" stroke="#BC8CFF" stroke-width="1.5" opacity="0.5"></circle><text x="9" y="13" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600">◎</text></svg></div>
+          <div style="width: 1px; height: 100%; min-height: 28px; background: #21262d; margin: 0 auto;"></div>
+        </td>
+        <td valign="top" style="padding-bottom: 24px; padding-left: 14px;">
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #BC8CFF; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 3px;">Future</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #C9D1D9; margin-bottom: 3px;">Large Scale Open Source Impact</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; color: #8B949E; line-height: 1.5;">Aiming to contribute meaningfully to major open source projects.</div>
+        </td>
+      </tr>
+  </table>
+
+  <br>
+
+  <!-- Progress Dashboard -->
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="right" valign="middle">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="12" cy="12" r="10" stroke="#BC8CFF" stroke-width="1.5"/>
+          <path d="M12 6v6l4 2" stroke="#BC8CFF" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
       </td>
-      <td valign="top" style="padding-bottom: 28px; padding-left: 12px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; color: #58A6FF; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Present</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; color: #C9D1D9; margin-bottom: 4px;">Active Development</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Building projects, contributing to open source, and exploring AI and full-stack development.</div>
+      <td align="left" valign="middle" style="padding-left: 12px;">
+        <h2 style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 600; font-size: 28px; color: #C9D1D9; letter-spacing: 2px;">
+          <span style="color: #BC8CFF;">Progress</span> Dashboard
+        </h2>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="padding: 16px 24px;">
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#21262d" stroke-width="5"/>
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#58A6FF" stroke-width="5"
+                  stroke-dasharray="226.19" stroke-dashoffset="135.72"
+                  stroke-linecap="round" transform="rotate(-90 50 50)" opacity="0.9"/>
+          <text x="50" y="47" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700"><!-- DYN:repos -->8<!-- /DYN:repos --></text>
+          <text x="50" y="63" text-anchor="middle" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1">REPOSITORIES</text>
+        </svg>
+      </td>
+      <td align="center" style="padding: 16px 24px;">
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#21262d" stroke-width="5"/>
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#BC8CFF" stroke-width="5"
+                  stroke-dasharray="226.19" stroke-dashoffset="79.17"
+                  stroke-linecap="round" transform="rotate(-90 50 50)" opacity="0.9"/>
+          <text x="50" y="47" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700"><!-- DYN:contributions -->0<!-- /DYN:contributions --></text>
+          <text x="50" y="63" text-anchor="middle" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1">CONTRIBUTIONS</text>
+        </svg>
+      </td>
+      <td align="center" style="padding: 16px 24px;">
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#21262d" stroke-width="5"/>
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#39D2C0" stroke-width="5"
+                  stroke-dasharray="226.19" stroke-dashoffset="223.93"
+                  stroke-linecap="round" transform="rotate(-90 50 50)" opacity="0.9"/>
+          <text x="50" y="47" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700"><!-- DYN:followers -->1<!-- /DYN:followers --></text>
+          <text x="50" y="63" text-anchor="middle" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1">FOLLOWERS</text>
+        </svg>
       </td>
     </tr>
     <tr>
-      <td width="30" valign="top" align="center">
-        <div style="padding-top: 6px;">
-          <svg width="16" height="16" viewBox="0 0 16 16">
-            <circle cx="8" cy="8" r="6" fill="#BC8CFF" opacity="0.8">
-              <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="0.5s"/>
-            </circle>
-            <circle cx="8" cy="8" r="7" fill="none" stroke="#BC8CFF" stroke-width="1" opacity="0.3"/>
-          </svg>
-        </div>
+      <td align="center" style="padding: 16px 24px;">
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#21262d" stroke-width="5"/>
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#58A6FF" stroke-width="5"
+                  stroke-dasharray="226.19" stroke-dashoffset="226.19"
+                  stroke-linecap="round" transform="rotate(-90 50 50)" opacity="0.9"/>
+          <text x="50" y="47" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700"><!-- DYN:stars -->0<!-- /DYN:stars --></text>
+          <text x="50" y="63" text-anchor="middle" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1">STARS</text>
+        </svg>
       </td>
-      <td valign="top" style="padding-bottom: 28px; padding-left: 12px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; color: #BC8CFF; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Ongoing</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; color: #C9D1D9; margin-bottom: 4px;">Learning & Growth</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">Deepening expertise in cloud architecture, AI/ML, and system design. Exploring new technologies daily.</div>
+      <td align="center" style="padding: 16px 24px;">
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#21262d" stroke-width="5"/>
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#BC8CFF" stroke-width="5"
+                  stroke-dasharray="226.19" stroke-dashoffset="40.72"
+                  stroke-linecap="round" transform="rotate(-90 50 50)" opacity="0.9"/>
+          <text x="50" y="47" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">AI</text>
+          <text x="50" y="63" text-anchor="middle" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1">FOCUS</text>
+        </svg>
       </td>
-    </tr>
-    <tr>
-      <td width="30" valign="top" align="center">
-        <div style="padding-top: 6px;">
-          <svg width="16" height="16" viewBox="0 0 16 16">
-            <circle cx="8" cy="8" r="6" fill="#39D2C0" opacity="0.8">
-              <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="1s"/>
-            </circle>
-            <circle cx="8" cy="8" r="7" fill="none" stroke="#39D2C0" stroke-width="1" opacity="0.3"/>
-          </svg>
-        </div>
-      </td>
-      <td valign="top" style="padding-bottom: 28px; padding-left: 12px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; color: #39D2C0; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Future</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; color: #C9D1D9; margin-bottom: 4px;">Goals & Aspirations</div>
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #8B949E; line-height: 1.5;">To innovate, inspire, and make a lasting impact through technology. Open to collaborations and new opportunities.</div>
+      <td align="center" style="padding: 16px 24px;">
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#21262d" stroke-width="5"/>
+          <circle cx="50" cy="50" r="36" fill="none" stroke="#39D2C0" stroke-width="5"
+                  stroke-dasharray="226.19" stroke-dashoffset="0.00"
+                  stroke-linecap="round" transform="rotate(-90 50 50)" opacity="0.9"/>
+          <text x="50" y="47" text-anchor="middle" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">100%</text>
+          <text x="50" y="63" text-anchor="middle" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1">UPTIME</text>
+        </svg>
       </td>
     </tr>
+  </table>
+
+  <br>
+
+  <!-- Mission Status Panel -->
+  <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 700px; background-color: #0D1117; border: 1px solid #21262d; border-radius: 16px;">
+    <tr><td style="padding: 28px 32px;">
+      
+      <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; color: #58A6FF; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 16px; font-weight: 600;">
+        ◈ Mission Status
+      </div>
+      
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td width="50%" valign="top" style="padding-right: 20px;">
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #8B949E; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Current Mission</div>
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500; line-height: 1.5;">Building intelligent automation tools</div>
+          </td>
+          <td width="50%" valign="top">
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #8B949E; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Status</div>
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #39D2C0; font-weight: 600;">
+              <svg width="8" height="8" viewBox="0 0 8 8" style="vertical-align: middle; margin-right: 4px;">
+                <circle cx="4" cy="4" r="3" fill="#39D2C0">
+                  <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+                </circle>
+              </svg>
+              ONLINE
+            </div>
+          </td>
+        </tr>
+      </table>
+
+      <div style="margin: 18px 0 12px;">
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #8B949E; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 6px;">Progress</div>
+        <svg width="100%" height="28" viewBox="0 0 636 28">
+          <rect x="0" y="8" width="636" height="12" rx="6" fill="#21262d"/>
+          <rect x="0" y="8" width="522" height="12" rx="6" fill="#58A6FF">
+            <animate attributeName="width" from="0" to="522" dur="1.5s" fill="freeze"/>
+          </rect>
+          <text x="540" y="18" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600">82%</text>
+        </svg>
+      </div>
+
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td width="50%" valign="top">
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #8B949E; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Next Objective</div>
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #C9D1D9; font-weight: 500;">Open Source Contributions at Scale</div>
+          </td>
+          <td width="50%" valign="top" align="right">
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 10px; color: #8B949E; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Systems Built</div>
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #BC8CFF; font-weight: 600;">3</div>
+          </td>
+        </tr>
+      </table>
+      
+    </td></tr>
   </table>
 
 </div>
