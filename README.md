@@ -156,16 +156,7 @@
 
   <br>
 
-  <table align="center" border="0" cellpadding="10" cellspacing="10">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kadhare-Raj-Chandrakant&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&bg_color=0D1117&ring_color=39D2C0&border_radius=12" alt="GitHub Stats" width="450">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadhare-Raj-Chandrakant&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8&border_radius=12" alt="Top Languages" width="360">
-      </td>
-    </tr>
-  </table>
+  <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; color: #8B949E; text-align: center;">Stats unavailable — external service down.</p>
 
   <br><br>
 
