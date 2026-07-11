@@ -178,8 +178,6 @@
 
   <br><br>
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kadhare-Raj-Chandrakant&limit=5&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Contributor Stats" width="450">
-
 </div>
 
 <!-- DIVIDER: PARTICLES -->
