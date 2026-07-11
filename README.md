@@ -201,19 +201,12 @@
 
   <br>
 
-  <!-- Premium framed snake container -->
-  <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #0D1117; border: 1px solid #21262d; border-radius: 20px; width: 900px;"><tr><td style="padding: 20px;">
-    <div style="overflow: hidden; border-radius: 12px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake.svg">
-        <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake.gif" width="100%" style="display: block;">
-      </picture>
-    </div>
-    <div style="border-radius: 20px; border: 1px solid #21262d; margin-top: 4px;">
-      <div style="height: 6px; width: 100%; background: linear-gradient(90deg, #58A6FF, #BC8CFF, #39D2C0); border-radius: 3px;"></div>
-    </div>
-  </td></tr></table>
+  <div style="max-width: 900px; margin: 0 auto;">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/main/assets/snake-animated.svg" width="100%" style="display: block; border-radius: 12px;">
+  </div>
+  <div style="max-width: 900px; margin: 0 auto; border-radius: 20px; border: 1px solid #21262d; margin-top: 4px;">
+    <div style="height: 6px; width: 100%; background: linear-gradient(90deg, #58A6FF, #BC8CFF, #39D2C0); border-radius: 3px;"></div>
+  </div>
 
 </div>
 
