@@ -29,33 +29,32 @@
       <stop offset="100%" stop-color="#39D2C0"/>
     </linearGradient>
   </defs>
-  <style>
-    @keyframes blink { 0%,100% { opacity:1 } 50% { opacity:0 } }
-    .cursor { animation: blink 1s step-end infinite }
-  </style>
   <text x="300" y="35" text-anchor="middle" font-family="SF Mono, Fira Code, monospace" font-size="20" font-weight="400" fill="url(#typeGrad)" letter-spacing="2">
     <tspan>
       Software Engineer
       <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
     </tspan>
     <tspan>
-      <animate attributeName="opacity" values="0;0;0;1;1;0;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
       Open Source Enthusiast
     </tspan>
     <tspan>
-      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0;0;0;0" dur="24s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
       Full Stack Developer
     </tspan>
     <tspan>
-      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;1;1;0" dur="24s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0;0;0;0" dur="24s" repeatCount="indefinite"/>
       AI Builder
     </tspan>
     <tspan>
-      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;0" dur="24s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;1;0;0" dur="24s" repeatCount="indefinite"/>
       Problem Solver
     </tspan>
   </text>
-  <text x="475" y="35" font-family="monospace" font-size="22" fill="#8B949E" class="cursor" opacity="0.6">|</text>
+  <text x="475" y="35" font-family="monospace" font-size="22" fill="#8B949E" opacity="0.6">
+    |
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </text>
 </svg>
 
 </div>
