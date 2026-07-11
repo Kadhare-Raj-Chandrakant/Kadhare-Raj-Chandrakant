@@ -114,114 +114,49 @@
     </tr>
   </table>
 
-  <table align="center" border="0" cellpadding="8" cellspacing="8" style="max-width: 900px;">
+  <div style="max-width: 900px; margin: 0 auto;">
 
-    <!-- Frontend -->
-    <tr>
-      <td colspan="4" align="left" style="padding-top: 16px;">
-        <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF; letter-spacing: 3px; text-transform: uppercase;">Frontend</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">HTML5</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">CSS3</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">JavaScript</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">React</div>
-      </td>
-    </tr>
+    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF; letter-spacing: 3px; text-transform: uppercase;">Frontend</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">HTML5</span>
+      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">CSS3</span>
+      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">JavaScript</span>
+      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">React</span>
+    </div>
 
-    <!-- Backend -->
-    <tr>
-      <td colspan="4" align="left" style="padding-top: 16px;">
-        <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF; letter-spacing: 3px; text-transform: uppercase;">Backend</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">Node.js</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">Python</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">Java</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">Express</div>
-      </td>
-    </tr>
+    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF; letter-spacing: 3px; text-transform: uppercase;">Backend</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Node.js</span>
+      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Python</span>
+      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Java</span>
+      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Express</span>
+    </div>
 
-    <!-- Languages -->
-    <tr>
-      <td colspan="4" align="left" style="padding-top: 16px;">
-        <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #39D2C0; letter-spacing: 3px; text-transform: uppercase;">Languages</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">Python</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">JavaScript</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">Java</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">HTML/CSS</div>
-      </td>
-    </tr>
+    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #39D2C0; letter-spacing: 3px; text-transform: uppercase;">Languages</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <span style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Python</span>
+      <span style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">JavaScript</span>
+      <span style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Java</span>
+      <span style="background: linear-gradient(135deg, rgba(57,210,192,0.05), rgba(57,210,192,0.02)); border: 1px solid rgba(57,210,192,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">HTML/CSS</span>
+    </div>
 
-    <!-- Tools & DevOps -->
-    <tr>
-      <td colspan="4" align="left" style="padding-top: 16px;">
-        <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF; letter-spacing: 3px; text-transform: uppercase;">Tools & DevOps</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">Git</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">GitHub</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">VS Code</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">Docker</div>
-      </td>
-    </tr>
+    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #58A6FF; letter-spacing: 3px; text-transform: uppercase;">Tools & DevOps</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Git</span>
+      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">GitHub</span>
+      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">VS Code</span>
+      <span style="background: linear-gradient(135deg, rgba(88,166,255,0.05), rgba(88,166,255,0.02)); border: 1px solid rgba(88,166,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">Docker</span>
+    </div>
 
-    <!-- AI -->
-    <tr>
-      <td colspan="4" align="left" style="padding-top: 16px;">
-        <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF; letter-spacing: 3px; text-transform: uppercase;">AI & ML</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">OpenAI</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">TensorFlow</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">LLMs</div>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; min-width: 90px;">
-        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500;">ML</div>
-      </td>
-    </tr>
+    <p align="left" style="margin: 16px 0 4px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; color: #BC8CFF; letter-spacing: 3px; text-transform: uppercase;">AI & ML</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">OpenAI</span>
+      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">TensorFlow</span>
+      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">LLMs</span>
+      <span style="background: linear-gradient(135deg, rgba(188,140,255,0.05), rgba(188,140,255,0.02)); border: 1px solid rgba(188,140,255,0.12); border-radius: 12px; padding: 14px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; color: #C9D1D9; font-weight: 500; display: inline-block;">ML</span>
+    </div>
 
-  </table>
+  </div>
 
 </div>
 
