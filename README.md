@@ -207,7 +207,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake.svg">
-        <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake-dark.svg" width="100%" style="display: block;">
+        <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kadhare-Raj-Chandrakant/Kadhare-Raj-Chandrakant/output/github-contribution-grid-snake.gif" width="100%" style="display: block;">
       </picture>
     </div>
     <div style="border-radius: 20px; border: 1px solid #21262d; margin-top: 4px;">
